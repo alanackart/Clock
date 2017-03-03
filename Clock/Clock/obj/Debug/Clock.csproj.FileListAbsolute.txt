@@ -1,0 +1,11 @@
+c:\users\alan\documents\visual studio 2015\Projects\Clock\Clock\bin\Debug\Clock.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\Clock\Clock\bin\Debug\Clock.exe
+c:\users\alan\documents\visual studio 2015\Projects\Clock\Clock\bin\Debug\Clock.pdb
+c:\users\alan\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.exe
+c:\users\alan\documents\visual studio 2015\Projects\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Clock\Clock\obj\Debug\DigitalClock.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Clock\Clock\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\Clock\Clock\obj\Debug\Clock.csproj.ResolveComReference.cache
